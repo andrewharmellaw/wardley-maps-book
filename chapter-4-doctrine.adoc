@@ -104,7 +104,7 @@ You may find that common capabilities are often assumed to be custom (e.g. offer
 
 *Doctrine: Use appropriate methods* +
 
-One of the climatic patterns we examined in the figure 22 (https://medium.com/wardleymaps/exploring-the-map-ad0266fad59b[chapter 3]) was how no one size fits all method exists. Assuming you are removing bias in your maps either by challenging directly or with the aid of a profile built from multiple maps then the next question becomes what methods are suitable? The most common mistake that I find is with outsourcing. The issue with outsourcing isn’t that the concept is wrong but instead that we have a tendency to outsource entire systems for which we do not understand the landscape. This is often done on the hope that someone else will effectively take care of it. +
+One of the climatic patterns we examined in the xref:img-fig22-no-one-size-fits-all[figure 22] (xref:chapter-3-exploring-the-map[chapter 3]) was how no one size fits all method exists. Assuming you are removing bias in your maps either by challenging directly or with the aid of a profile built from multiple maps then the next question becomes what methods are suitable? The most common mistake that I find is with outsourcing. The issue with outsourcing isn’t that the concept is wrong but instead that we have a tendency to outsource entire systems for which we do not understand the landscape. This is often done on the hope that someone else will effectively take care of it. +
 
 Let us imagine a system with multiple components spread across the evolution axis but we have no map. Let us now apply a single highly structured process to the system, often through a contract detailing what should be delivered. Unfortunately, unbeknownst to us some of those components will be in the uncharted domain and hence are uncertain by nature. They will change and hence we will incur some form of change control cost. These costs can be significant in any complex system that contains many uncharted components. As a result, arguments tend to break out between the buyer and the supplier. Unfortunately, the supplier has the upper hand because they can point to the contract and show that the components that did not change were efficiently delivered and the cost is associated with the components that changed. The old lines of “if you had specified it correctly in the first place” to “you kept on changing your mind” get trotted out and the buyer normally feels some form of guilt. It was their fault and if only they had specified it more! This is a lie and a trap. +
 
@@ -133,7 +133,7 @@ Now, in figure 37, I’ve provided exactly the same diagram in a mapping format.
 [caption="Figure 37: ",link=https://cdn-images-1.medium.com/max/1600/1*zeIyk5Ua05EmXF--B90KKA.jpeg] 
 image::1_zeIyk5Ua05EmXF--B90KKA.jpeg[Figure 37 - Elvish self-driving car (map),900,600,align=center]
 
-You should find you can say something reasonable about how you treat question 1 and 2. If you’re struggling look at figure 22 (https://medium.com/wardleymaps/exploring-the-map-ad0266fad59b[chapter 3]). +
+You should find you can say something reasonable about how you treat question 1 and 2. If you’re struggling look at xref:img-fig22-no-one-size-fits-all[figure 22] (xref:chapter-3-exploring-the-map[chapter 3]). +
 
 For reference, question 1 should probably be built in-house with our own engineers in an agile fashion whereas question 2 should be either outsourced with a structured and well defined process or some sort of commodity consumed. In figure 38, I’ve provided the same diagram without the Elvish so you can check your thinking. +
 
@@ -149,7 +149,7 @@ What enables you to do this feat of Elvish sensibility is the movement axis of e
 [caption="Figure 39: ",link=https://cdn-images-1.medium.com/max/1600/1*raGrs4q78nqbf55yaDkvXw.jpeg] 
 image::1_raGrs4q78nqbf55yaDkvXw.jpeg[Figure 39 - A business process diagram,900,600,align=center]
 
-Before you go and ask your friendly consultancy or vendor to make a map for you, remember that their interests are not necessarily your own. Equally, it’s important to challenge any bias your company may have in your maps. A team building our own home grown electricity supply may well argue that electricity is not a commodity but instead we need to custom build our own supply. Along with common sense, the cheat sheet figure 17, (https://medium.com/wardleymaps/finding-a-path-cdb1249078c0[chapter 2]) and those profile diagrams built from aggregated maps (figure 32) should give you ample evidence to challenge this. +
+Before you go and ask your friendly consultancy or vendor to make a map for you, remember that their interests are not necessarily your own. Equally, it’s important to challenge any bias your company may have in your maps. A team building our own home grown electricity supply may well argue that electricity is not a commodity but instead we need to custom build our own supply. Along with common sense, the cheat sheet xref:img-fig17-the-cheat-sheet[figure 17], (xref:chapter-2-finding-a-path[chapter 2]) and those profile diagrams built from aggregated maps (figure 32) should give you ample evidence to challenge this. +
 
 At this point someone normally tells me — _“that’s obvious, we wouldn’t do that”_ — however, ask yourself how many enterprise content management (ECM) systems do you have? If you’re of any scale and a typical global company built by acquisition, then experience would dictate that you’ll probably say 5–8x. In practice it is often more likely to be 40–250x customised versions with probably 3–5x separate groups building a global ECM whilst being unaware that the other groups exist. The problem is, most of you won’t know how much duplication or bias you have. Of course, there are a wide range of excuses that are deployed for not breaking up entire systems into components and then applying more appropriate methods. My favourite ones include: - +
 
@@ -263,7 +263,7 @@ image::1_tUSbtVrnFF-t58KmouqtHw.jpeg[Figure 44 - Doctrine,900,600,align=center]
 
 == Using doctrine with our first map
 
-When you read the list of doctrine, it mainly sounds like common sense. Most of them are but then again, they’re very difficult to achieve. You really have to work hard at them. In the case of “remove duplication and bias” then you can’t effectively apply it to your first map because it requires multiple maps. However, even with a simple map, you can apply some of these doctrines. In figure 45 I’ve taken our first map which we applied common economic patterns to figure 28 (https://medium.com/wardleymaps/exploring-the-map-ad0266fad59b[Chapter 3]) and shown where doctrine is relevant. +
+When you read the list of doctrine, it mainly sounds like common sense. Most of them are but then again, they’re very difficult to achieve. You really have to work hard at them. In the case of “remove duplication and bias” then you can’t effectively apply it to your first map because it requires multiple maps. However, even with a simple map, you can apply some of these doctrines. In figure 45 I’ve taken our first map which we applied common economic patterns to xref:img-fig28-first-map-with-patterns[figure 28] (xref:chapter-3-exploring-the-map[Chapter 3]) and shown where doctrine is relevant. +
 
 .Applying doctrine and economic patterns to our first map
 [#img-fig45-applying-doctrine-and-economic-patterns-to-our-first-map] 
@@ -288,6 +288,6 @@ We are now in a position of understanding our landscape, being able to anticipat
 
 == An exercise for the reader
 
-In https://medium.com/wardleymaps/exploring-the-map-ad0266fad59b[chapter 3] I asked you to apply some basic economic patterns to a map you created in https://medium.com/wardleymaps/finding-a-path-cdb1249078c0[chapter 2]. If you’ve been skipping these exercises then now is the time to go back and complete them. Mapping isn’t something you can just read and become an expert in , it’s something you have to apply and learn. +
+In xref:chapter-3-exploring-the-map[chapter 3] I asked you to apply some basic economic patterns to a map you created in xref:chapter-2-finding-a-path[chapter 2]. If you’ve been skipping these exercises then now is the time to go back and complete them. Mapping isn’t something you can just read and become an expert in , it’s something you have to apply and learn. +
 
 I want you to now take your map and look at the various forms of doctrine highlighted in figure 44. Try and work with others and apply them to your map. Are you thinking about user needs? Are you challenging your assumptions? How would you organise yourself? Do you know the details?
