@@ -8,8 +8,9 @@ v0.3, 2018-03-01
 :producer: Asciidoctor
 :ascii-ids:
 :showcomments:
-:gitrepo: https://github.com/xxx/yyy
+:gitrepo: https://github.com/andrewharmellaw/wardley-maps-book
 ifndef::imagesdir[:imagesdir: images]
+:toc:
 
 ifndef::ebook-format[:leveloffset: 1]
 
