@@ -1,5 +1,5 @@
 == Welcome ==
-This is an Asciidoc book of Simon Wardley's "Wardley Maps". It simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them all together for ease of consumption.  The intention is to be entirely faithful to the original posts - I've not even fixed the few spelling mistakes - while allowing various output versions to be generated, e.g. HTML, and .mobi for Kindle e-readers.  It is made available under the same Creative Commons share-alike licence as the original posts. 
+This is an Asciidoc book of Simon Wardley's "Wardley Maps". It simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them all together for ease of consumption.  The intention is to be entirely faithful to the original posts - I've not even fixed the few spelling mistakes - while allowing various output versions to be generated, e.g. HTML, and .mobi for Kindle e-readers.  It is made available under the same Creative Commons Attribution-ShareAlike-4.0-International licence as the original posts. 
 
 == Generating the book yourself ==
 To generate the HTML version of this book, you need to have installed [asciidoctor](https://asciidoctor.org/docs/user-manual/), and then you can run the following command in the base directory of this repository:
