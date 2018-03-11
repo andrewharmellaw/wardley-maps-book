@@ -11,7 +11,6 @@ To generate the .mobi version of this book you additionally need to install [Asc
     asciidoctor-epub3 -a ebook-format=kf8 wardley-maps-book.adoc
 
 == To Do ==
-* Make the URLs in Chapter 3 which point to other chapters, point to the book chapters instead
 * Add a cover
 * Change the type-setting so that paragraphs in the .mobi output aren't indented
 * Add a Travis build
