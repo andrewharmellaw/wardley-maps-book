@@ -6,7 +6,10 @@ I had created my first map and applied an understanding of some basic climatic p
 
 Some of my choices might be context specific i.e. a decision to flank an opponent requires an opponent to be in a known position. This doesn’t mean that everything is context specific. There could exist in business generally useful principles that everyone should apply. These principles are doctrine and in this chapter we’re going to examine that part of my journey — see figure 29. +
 
-*Figure 29 — Doctrine*
+.Doctrine
+[#img-fig29-doctrine] 
+[caption="Figure 29: ",link=https://cdn-images-1.medium.com/max/1600/1*GSg5AjyL5OzuGZX244FZag.jpeg] 
+image::1_GSg5AjyL5OzuGZX244FZag.jpeg[Figure 29 - Doctrine,900,600,align=center]
 
 == Learning doctrine
 
@@ -16,7 +19,10 @@ Doctrine are the basic universal principles that are applicable to all industrie
 
 Any value we create is through meeting the needs of others. Even our ability to understand our environment by creating a map requires us to first define the user need as it is the anchor for the entire map — see figure 30. Alas, a mantra of “not sucking as much as the competitors” whilst rarely explicitly stated is surprisingly common. An alternative mantra is “we must be the best we can” but to do that we must understand what it is we need to be. Despite this, the usual response I receive when asking a company or a specific project to explain its user needs is a blank stare. I have seen many large projects in excess of a $100M with endless specification documents where the scale of spending and paperwork is only matched by the inability of the group to explain what the user actually needs. +
 
-*Figure 30 — Focus on user needs*
+.Focus on user needs
+[#img-fig30-focus-on-uesr-needs] 
+[caption="Figure 30: ",link=https://cdn-images-1.medium.com/max/1600/1*wZ8wEX2KVNhVTFgteoHOLw.jpeg] 
+image::1_wZ8wEX2KVNhVTFgteoHOLw.jpeg[Figure 30 - Focus on user needs,900,600,align=center]
 
 It should be obvious that failing to meet the needs of your users especially when competitors do manage to achieve this is a bad idea. There is a conceit here in the assumption that your competitors will try to achieve this. If you’re operating in a market where everyone ignores user needs or better still tells users what they want (regardless of needs) then no-one gains an advantage. +
 
@@ -52,7 +58,10 @@ You should not only share maps, you should collate them in an effort to remove d
 
 With your first map you can probably challenge whether we’ve adequately met user needs or maybe how we’re treating components. As you collect more maps of different systems or lines of business then you start discover the same component is on multiple maps. I’ve marked some examples in figure 31 in green. +
 
-*Figure 31 — Duplication*
+.Duplication
+[#img-fig31-duplication] 
+[caption="Figure 31: ",link=https://cdn-images-1.medium.com/max/1600/1*9sl11s9-DfbTV7NUXoNTuA.jpeg] 
+image::1_9sl11s9-DfbTV7NUXoNTuA.jpeg[Figure 31 - Duplication,900,600,align=center]
 
 Now, the same component being on different maps is fine except when we’re saying it’s a different instance of that component. For example, if you have ten maps all with database or call centre or print facility as a component then that’s not necessarily a problem but it might be if you’re actually saying we have 10x different databases running on 10x different systems. There can be legitimate reasons for duplication such as locality but even then you’d hope there would be 10x fairly standardised print facilities and not 10x highly customised. +
 
@@ -60,7 +69,10 @@ In large organisations such as petrochemical or banking companies with committee
 
 One technique I find useful in helping to highlight this problem is to create a profile diagram. I simply collate maps together, identifying commonly described components and then place them onto the profile. This gives me an idea of both duplication and bias. From the profile diagram below in figure 32, then the following points are noted: - +
 
-*Figure 32 — Profile*
+.Profile
+[#img-fig32-profile] 
+[caption="Figure 32: ",link=https://cdn-images-1.medium.com/max/1600/1*6AlKUhSuup8mXu-nc060Pg.jpeg] 
+image::1_6AlKUhSuup8mXu-nc060Pg.jpeg[Figure 32 - Profile,900,600,align=center]
 
 *Point 1* — for each common component you record how many times it is repeated. High numbers of repetition is not necessarily a problem as there may be a legitimate reason or it could be the same component in different maps. In this case, our maps show seven references to websites. +
 
@@ -76,11 +88,17 @@ The maps and the profile are simply guides to help you remove duplication and bi
 
 Another technique I find useful in a dispersed structure is to determine what capabilities we need as a group. For example, in figure 33, a map is provided that explicitly highlights both the customer journey and the associated capabilities. I’ve derived this map from a real world example used by the http://www.methods.co.uk/companies/[Methods Group]. In this map the customer journey (described as service patterns) is more clearly highlighted and we’re focusing not only on the technology required to meet higher order system needs but also those higher order systems e.g. manage call, determine sponsorship. For reasons of confidentiality, I’ve changed and removed many of the terms. +
 
-*Figure 33 — Map with customer journey*
+.Map with customer journeys
+[#img-fig33-map-with-customer-journeys] 
+[caption="Figure 33: ",link=https://cdn-images-1.medium.com/max/1600/1*pbXQOm3BvRXDmt2qvTI_Ng.jpeg] 
+image::1_pbXQOm3BvRXDmt2qvTI_Ng.jpeg[Figure 33 - Map with customer journeys,900,600,align=center]
 
 By aggregating many of these maps together you can develop a picture of what the company actually does and what its existing capabilities are through a capability profile — see figure 34. +
 
-*Figure 34 — Capability Profile*
+.Capability profile
+[#img-fig34-capability-profile] 
+[caption="Figure 34: ",link=https://cdn-images-1.medium.com/max/1600/1*8nDLjopTztazIOrrQ9I1jQ.jpeg] 
+image::1_8nDLjopTztazIOrrQ9I1jQ.jpeg[Figure 34 - Capability profile,900,600,align=center]
 
 You may find that common capabilities are often assumed to be custom (e.g. offer a selection of investments) when in reality they should be far more defined. You may also find that you have a plethora of duplicated and custom built technology providing a single capability which should be streamlined. It never fails to surprise me how a simple business with limited capabilities is made incredibly complex and slow by a smorgasbord of duplicated custom built solutions underneath. +
 
@@ -94,27 +112,42 @@ The problem was not that a highly structured process with detailed specification
 
 Even better, if the scam works — especially if the supplier waives some cost as a gesture of goodwill — then the next time the buyer will try even harder to specify the next system in more detail. They’ll often pay the supplier or a friendly consultancy to help them do this. Unfortunately, once again it will contain uncharted components which will change and thus costs will be incurred. The only way to avoid this is to break the system down into components and treat them with appropriate methods e.g. figure 35. +
 
-*Figure 35 — Use appropriate methods.*
+.Use appropriate methods
+[#img-fig35-use-appropriate-methods] 
+[caption="Figure 35: ",link=https://cdn-images-1.medium.com/max/1600/1*j5DwoelIG9kukmQjxK7wBw.jpeg] 
+image::1_j5DwoelIG9kukmQjxK7wBw.jpeg[Figure 35 - Use appropriate methods,900,600,align=center]
 
 In the above example from 2005, then power should be outsourced to a utility provider whereas CRM, platform, data centre and compute should use off the shelf products or rental solutions (e.g. hosting) with minimal change where possible. The online photo storage and image manipulation components which are going to rapidly change should ideally be built in-house with our own engineers and using an agile approach. Whilst we might use more detailed and specific contracts for items such as data centre (hosting), we are also mindful that we cannot fully specify image manipulation at this time. If in 2005, we had outsourced the entire system in the figure above to a single highly structured approach using a detailed specification then I could almost guarantee that we would have ended up with excessive change costs around image manipulation and photo storage. +
 
 The problem of inappropriate outsourcing is so rife that it’s worth doing a simple example to reinforce this point. In figure 36, I’ve provided a box and wire diagram (commonly used in IT systems) for a self-driving car. However, I’ve translated the description of the components into Elvish because as I’ve said most IT is elvish to people in business. I’d like you to look at the diagram and answer the questions labelled as 1 and 2. +
 
-*Figure 36 — Elvish self-driving car (box and wire)*
+.Elvish self-driving car (box and wire)
+[#img-fig36-elvish-self-driving-car-box-and-wire] 
+[caption="Figure 36: ",link=https://cdn-images-1.medium.com/max/1600/1*z2oekFI8susgjabRDIFFHQ.jpeg] 
+image::1_z2oekFI8susgjabRDIFFHQ.jpeg[Figure 36 - Elvish self-driving car (box and wire),900,600,align=center]
 
 Now, in figure 37, I’ve provided exactly the same diagram in a mapping format. It’s still in Elvish. See if you can answer question 1 and 2. +
 
-*Figure 37 — Elvish self-driving car (map)*
+.Elvish self-driving car (map)
+[#img-fig37-elvish-self-driving-car-map] 
+[caption="Figure 37: ",link=https://cdn-images-1.medium.com/max/1600/1*zeIyk5Ua05EmXF--B90KKA.jpeg] 
+image::1_zeIyk5Ua05EmXF--B90KKA.jpeg[Figure 37 - Elvish self-driving car (map),900,600,align=center]
 
 You should find you can say something reasonable about how you treat question 1 and 2. If you’re struggling look at figure 22 (https://medium.com/wardleymaps/exploring-the-map-ad0266fad59b[chapter 3]). +
 
 For reference, question 1 should probably be built in-house with our own engineers in an agile fashion whereas question 2 should be either outsourced with a structured and well defined process or some sort of commodity consumed. In figure 38, I’ve provided the same diagram without the Elvish so you can check your thinking. +
 
-*Figure 38— A self-driving car*
+.A self-driving car
+[#img-fig38-a-self-driving-car] 
+[caption="Figure 38: ",link=https://cdn-images-1.medium.com/max/1600/1*xGihHZLBq7B3lYWVQT-a0g.jpeg] 
+image::1_xGihHZLBq7B3lYWVQT-a0g.jpeg[Figure 38 - A self-driving car,900,600,align=center]
 
 What enables you to do this feat of Elvish sensibility is the movement axis of evolution. Unfortunately, in most outsourcing arrangements that I’ve seen then diagrams such as box and wires or business process maps (see figure 39) tend to dominate. Alas, these lack that all important movement characteristic. Box and wires and business process maps are not actually maps; you are relying solely on contextual information from the words (i.e. knowing that process payment is a commodity). The diagrams themselves will not provide you with a guide as to what you should or should not outsource. +
 
-*Figure 39— A business process diagram*
+.A business process diagram
+[#img-fig39-a-business-process-diagram] 
+[caption="Figure 39: ",link=https://cdn-images-1.medium.com/max/1600/1*raGrs4q78nqbf55yaDkvXw.jpeg] 
+image::1_raGrs4q78nqbf55yaDkvXw.jpeg[Figure 39 - A business process diagram,900,600,align=center]
 
 Before you go and ask your friendly consultancy or vendor to make a map for you, remember that their interests are not necessarily your own. Equally, it’s important to challenge any bias your company may have in your maps. A team building our own home grown electricity supply may well argue that electricity is not a commodity but instead we need to custom build our own supply. Along with common sense, the cheat sheet figure 17, (https://medium.com/wardleymaps/finding-a-path-cdb1249078c0[chapter 2]) and those profile diagrams built from aggregated maps (figure 32) should give you ample evidence to challenge this. +
 
@@ -136,7 +169,10 @@ In order to apply appropriate methods then you need to think small. You can’t 
 
 Such teams should be given autonomy in their space and this can be achieved by the team providing well defined interfaces for others to consume along with defined boundaries often described through some form of fitness function i.e. the team has a goal around a specific area with defined metrics for delivery. Maps themselves can be useful in helping you identify not only the teams you should build but also the interfaces they need to create — see figure 40. +
 
-*Figure 40— Think small (as in teams)*
+.Think small (as in teams)
+[#img-fig40-think-small-as-in-teams] 
+[caption="Figure 40: ",link=https://cdn-images-1.medium.com/max/1600/1*hq1RwzQTcEITtNk16fUe5g.jpeg] 
+image::1_hq1RwzQTcEITtNk16fUe5g.jpeg[Figure 40 - Think small (as in teams),900,600,align=center]
 
 *Doctrine: Think aptitude and attitude* +
 
@@ -154,7 +190,10 @@ In 2005, we knew that one culture didn’t seem to work and enabling people to g
 
 When using a map, you should not only break into components and build small cells around this, you should also consider attitude — see figure 41. +
 
-*Figure 41— Aptitude and Attitude*
+.Aptitude and Attitude
+[#img-fig41-aptitude-and-attitude] 
+[caption="Figure 41: ",link=https://cdn-images-1.medium.com/max/1600/1*zmgXOcHoIkXCTyKCp7_g4Q.jpeg] 
+image::1_zmgXOcHoIkXCTyKCp7_g4Q.jpeg[Figure 41 - Aptitude and Attitude,900,600,align=center]
 
 It’s really important to understand that pioneers *build* and *operate* the novel. Pioneers are responsible for their pioneering and that means everything. They tend to do this by consuming components built by Settlers (e.g. product or libraries) and Town Planners (e.g. industrialised services). Town planners on the other hand *build* and *operate* the industrialised components of huge scale. Don’t fall into the trap that Pioneers build new stuff and hand it off to someone else to run or operate. That’s not how this works. +
 
@@ -172,11 +211,14 @@ What happens then is that the commandos and the infantry advance into new territ
 
 Everything is evolving due to competition. The effects of this on business can be seen in their continual restructuring to cope with new outside paradigms.Recent presidents of cloud and social media are no different from the former presidents of electricity and telephony that most companies employed. Today’s bolt-on include Chief Digital Officers. This new stuff is tomorrow’s legacy and this creates a problem. We might introduce a cell based structure with consideration for not only aptitude but attitude however the map isn’t static. We need to somehow mimic that constant state of evolution in the outside world but within a company. The solution is to introduce a mechanism of theft which means new teams need to form and steal the work of earlier teams i.e. the settlers steal from the pioneers and productise the work. This forces the pioneers to move on. Equally the town planners steal from the settlers and industrialise it, forcing the settlers to move on but also providing component service to enable the pioneers. This results in a cycle shown in fig 42. +
 
-*Figure 42— Design for constant evolution*
+.Design for constant evolution
+[#img-fig42-design-for-constant-evolution] 
+[caption="Figure 42: ",link=https://cdn-images-1.medium.com/max/1600/1*0Ou947Cc8O2vI1zTi4IeYw.jpeg] 
+image::1_0Ou947Cc8O2vI1zTi4IeYw.jpeg[Figure 42 - Design for constant evolution,900,600,align=center]
 
 *Point 1* — The Town Planners create some form of industrialised component that previously existed as a product. This is provided as a utility service. +
 
-*Point 2 *— The Pioneers can now rapidly build higher order systems that consume that component. +
+*Point 2* — The Pioneers can now rapidly build higher order systems that consume that component. +
 
 *Point 3* — As the new higher order systems evolve, the Settlers identify new patterns within them and create a product or some form of library component for re-use. +
 
@@ -190,7 +232,10 @@ You will however increasingly have to structure the monitoring and communication
 
 Contrary to popular concepts of culture, the structure causes three separate cultures to flourish. This is somewhat counter to general thinking because the culture results from the structure and not the other way around. It also means you don’t have a single company culture but multiple that you need to maintain. I’ve described the basic elements of this within figure 43. +
 
-*Figure 43 — Culture.*
+.Culture
+[#img-fig43-culture] 
+[caption="Figure 43: ",link=https://cdn-images-1.medium.com/max/1600/1*N_AlXpq2V9C0PtWyqDvLHw.jpeg] 
+image::1_N_AlXpq2V9C0PtWyqDvLHw.jpeg[Figure 43 - Culture,900,600,align=center]
 
 Lastly, PST is a structure that I’ve used to remarkable effect in a very small number of cases. That’s code for ‘it might just be a fluke’. However, in the last decade I’ve seen nothing which comes close and instead I’ve seen endless matrix or dual systems that create problems. Will something better come along — of course it will. However, to invoke Conway’s law then if you don’t mimic evolution in your communication mechanisms (e.g. through a mechanism of theft) then you’ll never going to cope with evolution outside the organisation. +
 
@@ -211,13 +256,19 @@ Furthermore, doctrine are a set of beliefs over which you have choice. They are 
 • the manner by which we _learn_ +
 • how we _lead_ +
 
-*Figure 44 — Doctrine*
+.Doctrine
+[#img-fig44-doctrine] 
+[caption="Figure 44: ",link=https://cdn-images-1.medium.com/max/1600/1*tUSbtVrnFF-t58KmouqtHw.jpeg] 
+image::1_tUSbtVrnFF-t58KmouqtHw.jpeg[Figure 44 - Doctrine,900,600,align=center]
 
 == Using doctrine with our first map
 
 When you read the list of doctrine, it mainly sounds like common sense. Most of them are but then again, they’re very difficult to achieve. You really have to work hard at them. In the case of “remove duplication and bias” then you can’t effectively apply it to your first map because it requires multiple maps. However, even with a simple map, you can apply some of these doctrines. In figure 45 I’ve taken our first map which we applied common economic patterns to figure 28 (https://medium.com/wardleymaps/exploring-the-map-ad0266fad59b[Chapter 3]) and shown where doctrine is relevant. +
 
-*Figure 45 — Applying doctrine and economic patterns to our first map.*
+.Applying doctrine and economic patterns to our first map
+[#img-fig45-applying-doctrine-and-economic-patterns-to-our-first-map] 
+[caption="Figure 45: ",link=https://cdn-images-1.medium.com/max/1600/1*akorOk_iKtA5BN7baKyydA.jpeg] 
+image::1_akorOk_iKtA5BN7baKyydA.jpeg[Figure 45 - Applying doctrine and economic patterns to our first map,900,600,align=center]
 
 *Point 1* — focus on user needs. The anchor of the map is the user, in this case a customer. +
 
@@ -240,5 +291,3 @@ We are now in a position of understanding our landscape, being able to anticipat
 In https://medium.com/wardleymaps/exploring-the-map-ad0266fad59b[chapter 3] I asked you to apply some basic economic patterns to a map you created in https://medium.com/wardleymaps/finding-a-path-cdb1249078c0[chapter 2]. If you’ve been skipping these exercises then now is the time to go back and complete them. Mapping isn’t something you can just read and become an expert in , it’s something you have to apply and learn. +
 
 I want you to now take your map and look at the various forms of doctrine highlighted in figure 44. Try and work with others and apply them to your map. Are you thinking about user needs? Are you challenging your assumptions? How would you organise yourself? Do you know the details?
-
-
