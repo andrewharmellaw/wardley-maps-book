@@ -11,6 +11,20 @@ To generate the .mobi version of this book you additionally need to install [Asc
     asciidoctor-epub3 -a ebook-format=kf8 wardley-maps-book.adoc
 
 # To Do
+* Port chapter 6
+* Port chapter 7
+* Port chapter 8
+* Port chapter 9
+* Port chapter 10
+* Port chapter 11
+* Port chapter 12
+* Port chapter 13
+* Port chapter 14
+* Port chapter 15
+* Port chapter 16
+* Port chapter 17
+* Port chapter 18
+* Port chapter 19
 * Fix xref rendering on .mobi (Kindle) file generation - it doesn't work
 * Add a cover
 * Change the type-setting so that paragraphs in the ```.mobi``` output aren't indented
