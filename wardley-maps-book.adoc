@@ -1,6 +1,6 @@
 = Wardley Maps
 Simon Wardley
-v0.5, 2018-03-01
+v0.6, 2018-03-01
 :doctype: book
 :creator: {author}
 :copyright: CC-BY-SA 4.0
@@ -19,3 +19,4 @@ include::chapter-2-finding-a-path.adoc[]
 include::chapter-3-exploring-the-map.adoc[]
 include::chapter-4-doctrine.adoc[]
 include::chapter-5-the-play-and-a-decision-to-act.adoc[]
+include::chapter-6-getting-started.adoc[]

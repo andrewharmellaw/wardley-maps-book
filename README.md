@@ -11,7 +11,6 @@ To generate the .mobi version of this book you additionally need to install [Asc
     asciidoctor-epub3 -a ebook-format=kf8 wardley-maps-book.adoc
 
 # To Do
-* Port chapter 6
 * Port chapter 7
 * Port chapter 8
 * Port chapter 9
