@@ -18,7 +18,7 @@ To "port" a chapter I do the following:
 1. Copy the generated result, and paste it into a new .doc file
 1. Save the file with the name ```chapter-N-CHAPTER-TITLE.adoc```
 1. Add the chapter anchor at the top (see existing chapters for what this looks like)
-1. Add newlines after every '''+''' character
+1. Add newlines after every ```+``` character
 1. Download all the images from the chapter and put them in the "images" directory
 1. Replace every "Figure X ..." with the image title / link / anchor etc. (see existing chapters for what this looks like)
 1. Replace the links to other chapters / figures with ```xrefs``` (cross-references)
