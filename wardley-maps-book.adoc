@@ -1,6 +1,6 @@
 = Wardley Maps
 Simon Wardley
-v0.7, 2018-03-01
+v0.8, 2018-03-01
 :doctype: book
 :creator: {author}
 :copyright: CC-BY-SA 4.0
@@ -21,3 +21,4 @@ include::chapter-4-doctrine.adoc[]
 include::chapter-5-the-play-and-a-decision-to-act.adoc[]
 include::chapter-6-getting-started.adoc[]
 include::chapter-7-finding-a-new-purpose.adoc[]
+include::chapter-8-keeping-the-wolves-at-bay.adoc[]
