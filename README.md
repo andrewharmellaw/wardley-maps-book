@@ -26,8 +26,6 @@ To "port" a chapter I do the following:
 1. Remove the todo from the list below for the chapter you just ported
 
 # To Do
-* Port chapter 11
-* Port chapter 12
 * Port chapter 13
 * Port chapter 14
 * Port chapter 15
