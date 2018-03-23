@@ -175,7 +175,7 @@ Now the question is whether we should just use standard racks? This obviously mo
 [caption="Figure 91: ",link=https://cdn-images-1.medium.com/max/1600/1*F1ZTahWwWoiDCZpGeVa3tg.jpeg] 
 image::1_F1ZTahWwWoiDCZpGeVa3tg.jpeg[Figure 91 - Using standard racks,900,600,align=center]
 
-However, you still have a problem which is the legacy estate. Are you going to migrate all the racks? What about our sunk costs? How are we going to maintain our existing systems? There will be a long list of reasons to counter the proposed change. Before you go _“this is daft, we should just change” _remember the budget example, the corporate corpus and don’t expect to change a system without some resistance. +
+However, you still have a problem which is the legacy estate. Are you going to migrate all the racks? What about our sunk costs? How are we going to maintain our existing systems? There will be a long list of reasons to counter the proposed change. Before you go _“this is daft, we should just change”_ remember the budget example, the corporate corpus and don’t expect to change a system without some resistance. +
 
 In this case, despite resistance, we should go a step further. Computing was becoming a commodity provided by utility services. We can simplify this whole flow by just adopting utility services for any new work. We don’t need to think about robotic investment or even converting to using standard racks (itself a cost which might be prohibitive). This entire chunk of the value chain should disappear over time along with any additional costs it might be hiding (see figure 92). +
 

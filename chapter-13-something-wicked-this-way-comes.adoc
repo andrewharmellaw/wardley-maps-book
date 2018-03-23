@@ -59,7 +59,7 @@ image::1_5u3XGD0p8hXK0zf5GsHpdQ.jpeg[Figure 172 - The US player,900,600,align=ce
 
 The shift towards more utility versions requires four factors — concept, technology, suitability and attitude (see xref:chapter-9-charting-the-future[chapter 9 — _charting the future_]). In this case concept, suitability and technology clearly exist as we have a US competitor providing the service. In terms of attitude then it’s a question of whether your clients are dissatisfied with the current method of provision. It’s not the 90% of customers rating Phoenix as good to high levels of satisfaction that concern me, it’s the 10% who didn’t. Specifically, the concern of a _“high cost of the system in the market as was noted in the customer survey”._ I’m going to assume therefore that we are firmly on the path towards utility as the factors seem to be there and a player is already making that move. +
 
-The US player claims to be _“doubling in size each year” _and the anticipated revenue growth from £15M to £25M is somewhat supportive of this especially if we consider the potential for economies of scale and price cuts. Alas, we have no information to confirm that consideration. We should note that they have a _“fairly active development community”_ growing around their API and have been accused of _“eating up the business models of some of those product companies”_. Contrary to this being a desperate act of cannibalisation, it is more likely part of an ILC like gameplay (as described in xref:chapter-5-the-play-and-a-decision-to-act[chapter 5 — _the play and a decision to act_]). +
+The US player claims to be _“doubling in size each year”_ and the anticipated revenue growth from £15M to £25M is somewhat supportive of this especially if we consider the potential for economies of scale and price cuts. Alas, we have no information to confirm that consideration. We should note that they have a _“fairly active development community”_ growing around their API and have been accused of _“eating up the business models of some of those product companies”_. Contrary to this being a desperate act of cannibalisation, it is more likely part of an ILC like gameplay (as described in xref:chapter-5-the-play-and-a-decision-to-act[chapter 5 — _the play and a decision to act_]). +
 
 This is exceedingly dangerous as the larger that ecosystem grows then the more innovative, more efficient and more customer focused the competitor becomes. They are already ahead of us in both utility forms, provision of an API and core features. Let us add this bit of gloom and doom to our map. +
 
@@ -156,7 +156,7 @@ When someone talks about how the _“organisation was recently restructured”_ 
 
 _Think small (as in teams)_ +
 
-Given the above, the discussion on how the _“digital group will expand significantly over the next two years” _raises an eyebrow. I’d want to know more, are we talking about a hefty department or some cell based way of operating (e.g. two pizza). +
+Given the above, the discussion on how the _“digital group will expand significantly over the next two years”_ raises an eyebrow. I’d want to know more, are we talking about a hefty department or some cell based way of operating (e.g. two pizza). +
 
 _A bias towards the new (be curious, take appropriate risks)_ +
 
