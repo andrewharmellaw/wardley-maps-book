@@ -1,6 +1,6 @@
 = Wardley Maps
 Simon Wardley
-v0.13, 2018-03-01
+v0.14, 2018-03-01
 :doctype: book
 :creator: {author}
 :copyright: CC-BY-SA 4.0
@@ -27,3 +27,4 @@ include::chapter-10-i-wasnt-expecting-that.adoc[]
 include::chapter-11-a-smorgasbord-of-the-slightly-useful.adoc[]
 include::chapter-12-the-scenario.adoc[]
 include::chapter-13-something-wicked-this-way-comes.adoc[]
+include::chapter-14-to-thine-own-self-be-true.adoc[]
