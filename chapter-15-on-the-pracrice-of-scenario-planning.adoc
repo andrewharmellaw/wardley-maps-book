@@ -249,3 +249,5 @@ Given everything you’ve been told, you now need to decide: -
 * *Do you sign the contract or not?*
 * *If you do sign which variant do you go for (in-house or public)?*
 * *Are there any other changes that you would make?*
+
+
