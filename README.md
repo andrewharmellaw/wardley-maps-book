@@ -26,9 +26,6 @@ To "port" a chapter I do the following:
 1. Remove the todo from the list below for the chapter you just ported
 
 # To Do
-* Port chapter 16
-* Port chapter 17
-* Port chapter 18
 * Port chapter 19
 * Fix xref rendering on .mobi (Kindle) file generation - it doesn't work
 * Add a cover

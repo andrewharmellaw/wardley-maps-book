@@ -1,6 +1,6 @@
 = Wardley Maps
 Simon Wardley
-v0.17, 2018-03-01
+v0.18, 2018-03-01
 :doctype: book
 :creator: {author}
 :copyright: CC-BY-SA 4.0
@@ -31,3 +31,4 @@ include::chapter-14-to-thine-own-self-be-true.adoc[]
 include::chapter-15-on-the-practice-of-scenario-planning.adoc[]
 include::chapter-16-super-looper.adoc[]
 include::chapter-17-to-infinity-and-beyond.adoc[]
+include::chapter-18-better-for-less.adoc[]
