@@ -1,6 +1,9 @@
 # Welcome
 This is an Asciidoc book of Simon Wardley's "Wardley Maps". It simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them together for ease of reading.  The intention is to be entirely faithful to the original posts - I've not even fixed the few spelling mistakes - while allowing various output versions to be generated, e.g. HTML, and .mobi for Kindle e-readers.  It is made available under the same Creative Commons Attribution-ShareAlike-4.0-International licence as the original posts. 
 
+# Downloads
+Once I've tested them, there will be downloads of .pdf and .mobi files on the "Releases" tab.  
+
 # Generating the book yourself
 All these generators require you to have installed [asciidoctor](https://asciidoctor.org/docs/user-manual/). Then select the command you require to generate the output you desire.
 
@@ -18,7 +21,7 @@ Then you can run the following command in the base directory of this repository:
 
     asciidoctor-pdf wardley-maps-book.adoc
 
-## .Mobi (Kindle)
+## .MOBI (Kindle)
 To generate the .mobi version of this book you additionally need to install [Asciidoctor-EPUB3](https://asciidoctor.org/docs/asciidoctor-epub3/) and [kindlegen](https://rubygems.org/gems/kindlegen/versions/3.0.3) both via  Ruby gems - the instructions are in the linked pages.  The pre-requisite to run both of these is Ruby. You can then run the following command in the base directory of this repository:
 
     asciidoctor-epub3 -a ebook-format=kf8 wardley-maps-book.adoc
