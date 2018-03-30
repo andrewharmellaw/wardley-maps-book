@@ -26,8 +26,8 @@ To "port" a chapter I do the following:
 1. Remove the todo from the list below for the chapter you just ported
 
 # To Do
-* Port chapter 19
 * Fix xref rendering on .mobi (Kindle) file generation - it doesn't work
+* Replace the formulae in chapter 19 with the latex equivalent (https://github.com/asciidoctor/asciidoctor-latex)
 * Add a cover
 * Change the type-setting so that paragraphs in the ```.mobi``` output aren't indented
 * Add a Travis build
