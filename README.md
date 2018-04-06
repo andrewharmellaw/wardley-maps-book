@@ -27,7 +27,6 @@ To "port" a chapter I do the following:
 
 # To Do
 * Fix xref rendering on .mobi (Kindle) file generation - it doesn't work
-* Replace the formulae in chapter 19 with the latex equivalent (https://github.com/asciidoctor/asciidoctor-latex)
-* Add a cover
+* Replace the formulae image in chapter 19 with the latex equivalent (https://github.com/asciidoctor/asciidoctor-latex)
 * Change the type-setting so that paragraphs in the ```.mobi``` output aren't indented
 * Add a Travis build

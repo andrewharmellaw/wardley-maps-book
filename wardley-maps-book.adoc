@@ -1,11 +1,14 @@
 = Wardley Maps
 Simon Wardley
-v0.19, 2018-03-01
+2018-04-02
+:updated: 2018-04-02
+:front-cover-image: image:cover.png[Front Cover,1050,1600]
 :doctype: book
-:creator: {author}
+:producer: Asciidoctor
+:keywords: wardley, maps, mapping, strategy, business, technology, ceo, c-suite
 :copyright: CC-BY-SA 4.0
 :lang: en-GB
-:producer: Asciidoctor
+:creator: {author}
 :ascii-ids:
 :showcomments:
 :gitrepo: https://github.com/andrewharmellaw/wardley-maps-book
