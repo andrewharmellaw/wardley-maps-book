@@ -25,7 +25,7 @@ image::1_1ezkgBPRMIjvVl7qgKV0VA.jpeg[Figure 181 - The Phoenix strategy,900,600,a
 [caption="Figure 182: ",link=https://cdn-images-1.medium.com/max/1600/1*zvF2qHFYWIzrquBb_Dc-pg.jpeg] 
 image::1_zvF2qHFYWIzrquBb_Dc-pg.jpeg[Figure 182 - Map with strategy,900,600,align=center]
 
-As discussed in chapter 13 — _Something wicked this ways comes_ — then I view that the strategy is about as poor as you can get. To cap it all off, the company itself has serious flaws in its makeup and composition. The CEO supported by a group of well trained executives is boldly charging the army over a cliff whilst trying to get rid of the one person who might possibly save them — the former CIO.
+As discussed in xref:#chapter-13-something-wicked-this-way-comes[chapter 13 — _Something wicked this ways comes_] — then I view that the strategy is about as poor as you can get. To cap it all off, the company itself has serious flaws in its makeup and composition. The CEO supported by a group of well trained executives is boldly charging the army over a cliff whilst trying to get rid of the one person who might possibly save them — the former CIO.
  
 To work through this problem to final a possible answer then we need to first distinguish where we could attack. Even on a simple map like this then there’s lots of points we could focus on. It’s much the same with a game of chess, there’s usually a huge number of potential moves you could make. The trick is sorting out which ones are of interest and that takes experience and practice of the game. In figure 183 I’ve listed the obvious wheres on our map ignoring the more wishful thinking such as _“buy up the Chinese sensor manufacturer”_. +
 
@@ -45,7 +45,7 @@ image::1_NFO-oFi5r2j0e_svxYk-dw.jpeg[Figure 183 - The wheres,900,600,align=cente
 . industrialise the data space
 . exploit inertia in the industry around the China sensors.
 
-In such an map, there are always many paths. One path describes how the company thought of its future and the strategic choices it was making. It’s quite clear that the company could not see the threat of the sensors and co-evolution of practice or how dangerous the US company was or even how it had inertia to change. In all likelihood, such a company wouldn’t even understand how things evolve. In their mind, they might have an unwritten map but it’ll look more like figure 184. To this company, their strategy makes sense because they don’t understand how the landscape is changing. The commodity sensors are just a disconnected component which they believe they have choice over or the cloud is just an optional choice. They have none of the anticipation that is brought on by an understanding of climatic patterns +
+In such a map, there are always many paths. One path describes how the company thought of its future and the strategic choices it was making. It’s quite clear that the company could not see the threat of the sensors and co-evolution of practice or how dangerous the US company was or even how it had inertia to change. In all likelihood, such a company wouldn’t even understand how things evolve. In their mind, they might have an unwritten map but it’ll look more like figure 184. To this company, their strategy makes sense because they don’t understand how the landscape is changing. The commodity sensors are just a disconnected component which they believe they have choice over or the cloud is just an optional choice. They have none of the anticipation that is brought on by an understanding of climatic patterns +
 
 .The Phoanix map
 [#img-fig184-the-phoenix-map] 
@@ -63,7 +63,7 @@ Applying a bit of thought to the map, another path now becomes available or in t
 [caption="Figure 185: ",link=https://cdn-images-1.medium.com/max/1600/1*ygCTDE969-tteDVzCoqd-A.jpeg] 
 image::1_ygCTDE969-tteDVzCoqd-A.jpeg[Figure 185 - My play,900,600,align=center]
 
-*The grey play — Pig in a Poke* +
+=== The grey play — Pig in a Poke*
 
 I’m going to sell this company (*grey* *point* 1). I’m going to want to maximise my return which means I’ll put effort into marketing (*point* 2) and promoting Phoenix as the future in this market, reinforcing those analyst messages. I’m also going to encourage the marketing team to heavily play on concerns over any cloud effort (*point* 3). Hence a bit of fear, uncertainty and doubt (FUD) is useful. +
 
