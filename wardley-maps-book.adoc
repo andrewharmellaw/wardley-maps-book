@@ -17,6 +17,7 @@ ifndef::imagesdir[:imagesdir: images]
 
 ifndef::ebook-format[:leveloffset: 1]
 
+include::publication-note.adoc[]
 include::chapter-1-on-being-lost.adoc[]
 include::chapter-2-finding-a-path.adoc[]
 include::chapter-3-exploring-the-map.adoc[]

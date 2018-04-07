@@ -2,7 +2,7 @@
 This is an Asciidoc book of Simon Wardley's "Wardley Maps". It simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them together for ease of reading.  The intention is to be entirely faithful to the original posts - I've not even fixed the few spelling mistakes - while allowing various output versions to be generated, e.g. HTML, and .mobi for Kindle e-readers.  It is made available under the same Creative Commons Attribution-ShareAlike-4.0-International licence as the original posts. 
 
 # Downloads
-Once I've tested them, there will be downloads of .pdf and .mobi files on the "Releases" tab.  
+If you want the PDF, or MOBI versions of this book, click on the "releases" tab above.
 
 # Generating the book yourself
 All these generators require you to have installed [asciidoctor](https://asciidoctor.org/docs/user-manual/). Then select the command you require to generate the output you desire.

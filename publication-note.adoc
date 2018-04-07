@@ -1,0 +1,11 @@
+[#publication-note]
+= Publication Note
+
+The contents of this book are entirely the work of Simon Wardley (with a few minor spelling corrections made by myself).  They have been collated from Simon's Medium.com posts on http://medium.com/wardleymaps[Wardley Maps].  unsurprisingly, this means that the contents of this book as licenced under the same terms as the blog posts themselves - the https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike-4.0-International licence].  
+
+The book has been created using https://asciidoctor.org[AsciiDoctor].  The source for the book is available on https://github.com/andrewharmellaw/wardley-maps-book[github].  If you spot any cotrretions that need to be made, please head over there and log an issue or submit a pull request.
+
+I hope this collected version of the book is useful to you as it was to me.  Enjoy!
+
+https://github.com/andrewharmellaw[Andrew Harmel-Law], Saturday 7th April, 2018
+
