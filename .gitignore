@@ -1,4 +1,5 @@
 output/*
+.DS_Store
 *.epub
 *.html
 *.mobi
