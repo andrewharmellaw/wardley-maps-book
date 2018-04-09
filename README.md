@@ -38,7 +38,7 @@ To "port" a chapter I do the following:
 1. Download all the images from the chapter and put them in the "images" directory
 1. Replace every "Figure X ..." with the image title / link / anchor etc. (see existing chapters for what this looks like)
 1. Replace the links to other chapters / figures with ```xrefs``` (cross-references)
-1. Add the chapter to the spine file (```wardley-maps-book.adoc```) and up the minor version number to be the same as the chapter you're adding
+1. Add the chapter to the spine file (```wardley-maps-book.adoc```)
 1. Remove the todo from the list below for the chapter you just ported
 
 # To Do
