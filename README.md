@@ -26,20 +26,8 @@ To generate the .mobi version of this book you additionally need to install [Asc
 
     asciidoctor-epub3 -a ebook-format=kf8 wardley-maps-book.adoc
 
-# My porting workflow
-To "port" a chapter I do the following:
-1. Cut and paste the Chapter post into a new Google Doc
-1. Set the title to be a "Title", and headings to be Heading 1, Heading 2, etc as appropriate 
-1. Use the [Asciidoc Processor Google Docs plugin](https://chrome.google.com/webstore/detail/asciidoc-processor/eghlmnhjljbjodpeehjjcgfcjegcfbhk?hl=en) to generate the AsciiDoc version of the document
-1. Copy the generated result, and paste it into a new .doc file
-1. Save the file with the name ```chapter-N-CHAPTER-TITLE.adoc```
-1. Add the chapter anchor at the top (see existing chapters for what this looks like)
-1. Add newlines after every ```+``` character
-1. Download all the images from the chapter and put them in the "images" directory
-1. Replace every "Figure X ..." with the image title / link / anchor etc. (see existing chapters for what this looks like)
-1. Replace the links to other chapters / figures with ```xrefs``` (cross-references)
-1. Add the chapter to the spine file (```wardley-maps-book.adoc```)
-1. Remove the todo from the list below for the chapter you just ported
+# Contributing
+Contributions are cool, and also very welcome.  There is a [code of conduct](CODE_OF_CONDUCT.md), and a [contribution guide](CONTRIBUTING.md) which you can familiarise yourself with if you want to get involved (even if its just fixing a typo).  They should be _very_ unsurprising to anyone used to the OSS world.
 
 # To Do
 * Fix xref rendering on .mobi (Kindle) file generation - it doesn't work
