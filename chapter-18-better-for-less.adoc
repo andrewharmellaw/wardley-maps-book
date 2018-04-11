@@ -269,10 +269,9 @@ The idea that we should plan around a forecast and the importance of accuracy in
 At this point, someone normally mentions Deming’s PDCA cycle — plan, do, check and act. To understand the difference, we need to consider the OODA loop a little more. The full OODA loop by John Boyd is provided in figure 241 +
 
 .OODA
-[#img-fig241-ooda] 
-[caption="Figure : ",link=https://cdn-images-1.medium.com/max/1600/1*9QrpkZamZxX7cJMhFusnBw.jpeg] 
-image::1_9QrpkZamZxX7cJMhFusnBw.jpeg[Figure  - ,900,600,align=center]
-_Figure 241 — OODA_
+[#img-fig241-ooda]
+[caption="Figure 241: ",link=https://cdn-images-1.medium.com/max/1600/1*9QrpkZamZxX7cJMhFusnBw.jpeg]
+image::1_9QrpkZamZxX7cJMhFusnBw.jpeg[Figure 241 - OODA,900,600,align=center]
 
 There are several components that I’d like to draw your attention to in the orient part of the loop. Our ability to orient (or orientate, which is an alternative English version of the word) depends upon our previous experience, cultural heritage and genetic disposition to the events in question. In terms of an organisation, its genetic disposition is akin to the doctrine and practices it has. +
 
