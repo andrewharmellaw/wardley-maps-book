@@ -87,7 +87,7 @@ Whilst 3D printing was a passion, I had also an interest in printed electronics 
 .The near, the far and the crazy
 [#img-fig53-the-near-the-far-and-the-crazy] 
 [caption="Figure 53: ",link=https://cdn-images-1.medium.com/max/1600/1*GsMZpqAiO9W0EGLIERL9yQ.jpeg] 
-image::1_GsMZpqAiO9W0EGLIERL9yQ.jpeg[Figure 53 - The near, the far and the crazy,900,600,align=center]
+image::1_GsMZpqAiO9W0EGLIERL9yQ.jpeg[Figure 53 - The near the far and the crazy,900,600,align=center]
 
 First let us start with the user need for some device (*Point 1*). I’ll leave it as generic because I want to cover manufacturing itself and not the specific use of one device over another. Our device would have physical elements including electronics along with any software that would interact with it. The physical and electronic elements are commonly described through some form of computer aided design (CAD) diagram which provides instructions on what to build and this is combined with our software which is simply our code (*Point 2*). +
 
@@ -122,8 +122,8 @@ At the same, I had noticed that as certain activities became more industrialised
 
 .Accelerators, decelerators and constraints
 [#img-fig54-accelerators-decelerators-and-constraints] 
-[caption="Figure54 : ",link=https://cdn-images-1.medium.com/max/1600/1*9PIXriLGda93vMx2j2gv9g.jpeg] 
-image::1_9PIXriLGda93vMx2j2gv9g.jpeg[Figure 54 - Accelerators, decelerators and constraints,900,600,align=center]
+[caption="Figure 54: ",link=https://cdn-images-1.medium.com/max/1600/1*9PIXriLGda93vMx2j2gv9g.jpeg] 
+image::1_9PIXriLGda93vMx2j2gv9g.jpeg[Figure 54 - Accelerators decelerators and constraints,900,600,align=center]
 
 *Point 1* — the evolution of a component can be accelerated by an open approach, whether open source or open data. +
 
@@ -146,7 +146,7 @@ Between 2003 to 2005, we had exposed parts of the photo service through URL requ
 .ILC (innovate, leverage and commoditise)
 [#img-fig55-ilc-innovate-leverage-and-commoditise] 
 [caption="Figure 55: ",link=https://cdn-images-1.medium.com/max/1600/1*07wGxnzk4cbH2Ep5cZptaA.png] 
-image::1_07wGxnzk4cbH2Ep5cZptaA.png[Figure 55 - ILC (innovate, leverage and commoditise),900,600,align=center]
+image::1_07wGxnzk4cbH2Ep5cZptaA.png[Figure 55 - ILC (innovate leverage and commoditise),900,600,align=center]
 
 Take an existing product that is relatively well defined and commonplace and turn it into an industrialised utility (*Point A1* to *A2*). This utility should be exposed as an easy to use API. Then encourage and enable other companies to innovate by building on top of your utility (*Point* *B1*). You can do this by increasing their agility and reducing their cost of failure, both of which a utility will provide. These companies building on top of your utility are your _“outside”_ pioneers or what we commonly call an _“ecosystem”._ +
 
