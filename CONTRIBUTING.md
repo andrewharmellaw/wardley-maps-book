@@ -10,7 +10,7 @@ Thanks for your input!
 To "port" a chapter I do the following:
 1. Cut and paste the Chapter post into a new Google Doc
 1. Set the title to be a "Title", and headings to be Heading 1, Heading 2, etc as appropriate 
-1. Use the [Asciidoc Processor Google Docs plugin](https://chrome.google.com/webstore/detail/asciidoc-processor/eghlmnhjljbjodpeehjjcgfcjegcfbhk?hl=en) to generate the AsciiDoc version of the document
+1. Use the [Asciidoc Processor Google Docs plugin](https://workspace.google.com/marketplace/app/asciidoc_processor/1023004302050) to generate the AsciiDoc version of the document
 1. Copy the generated result, and paste it into a new .doc file
 1. Save the file with the name ```chapter-N-CHAPTER-TITLE.adoc```
 1. Add the chapter anchor at the top (see existing chapters for what this looks like)
